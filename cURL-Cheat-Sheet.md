@@ -28,4 +28,10 @@
  "country_name":"HTB"}' -H 'Content-Type: application/json' 	| Update (modify) entry|
  |curl -X DELETE http://<SERVER_IP>:<PORT>/api.php/city/New_HTB_City 	|Delete entry|
 
+
 # Browser DevTools
+| **Shortcut** | 	**Description** |
+|---|---|
+| [CTRL+SHIFT+I] or [F12] 	|Show devtools |
+| [CTRL+SHIFT+E] 	|Show Network tab |
+| [CTRL+SHIFT+K] 	|Show Console tab |
